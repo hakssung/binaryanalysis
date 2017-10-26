@@ -1,1 +1,2 @@
-The Binary Analysis Tool (BAT) is a modular framework to analyse binary files.
+forked from BAT
+:The Binary Analysis Tool (BAT) is a modular framework to analyse binary files.
